@@ -55,3 +55,11 @@
 5. **Description:** "Minimalist 3-tier wooden bookshelf made from engineered wood, dimensions 80cm x 30cm x 100cm."
    * **Expected Level:** Normal / Factual
    * **LLM Output:** `1`
+  
+# Final LLM Scoring Prompts (Batch Table Scoring)
+
+## 1. Customer Financial Stress Scoring Prompt
+> Rate each of the following 150 Malaysian BNPL customer support chat messages for financial stress from 1 (very calm, no financial worry) to 5 (highly financially stressed, unable to pay, job loss, or asking for extension). Return the result as a CSV table with columns: `message,stress_level,stress_score`.
+
+## 2. Product Impulse Appeal Scoring Prompt
+> Rate each of the following 100 Malaysian e-commerce product descriptions on how strongly they encourage impulse buying, from 1 (very plain, factual everyday item with no urgency) to 5 (high urgency, flash sale, scarcity, or FOMO trigger). Return the result as a CSV table with columns: `description,impulse_level,impulse_score`.
