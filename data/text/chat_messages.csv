@@ -1,0 +1,151 @@
+message,stress_level,stress_score
+"Hi admin, boleh tak I delay my instalment this month? Company baru retrench staff semalam, tengah cari kerja baru sekarang.",high,5
+"Tolong sangat, gaji masuk lambat bulan ni, can you waive the late fee for 5 days?",high,5
+"I really cannot pay the full amount today, anak masuk hospital semalam and all my savings habis.",high,5
+"Please extend my due date, kereta rosak teruk kena bayar workshop dulu, tak cukup duit langsung.",high,5
+"Hi support, boleh restructure my BNPL plan tak? Komitmen bulan ni terlalu tinggi, tak mampu bayar sekaligus.",high,4
+"Boss haven't paid our salary yet, boleh tangguh bayaran sampai hujung minggu ni tak?",high,5
+"Saya hilang punca pendapatan bulan ni, macam mana nak minta penangguhan bayaran ansuran?",high,5
+"Please don't freeze my account yet, I am waiting for my freelance payment to clear, janji bayar Isnin ni.",high,4
+"Duit sewa rumah pun tak lepas lagi bulan ni, boleh bayar separuh dulu tak untuk instalment ni?",high,5
+"Hi, is there any way to pause my payment? Baru kena potong gaji sebab company rugi.",high,4
+"Tolonglah bagi masa sikit, PTPTN dengan bil elektrik semua tertunggak, pening kepala fikir duit.",high,5
+"Can I pay RM50 first? Baki saya bayar lepas gaji masuk 28 haribulan nanti, betul-betul sesak sekarang.",high,5
+"My husband just lost his job, kami memang tak ada duit dalam bank langsung minggu ni.",high,5
+"Please help, kalau lambat bayar 3 hari kena penalti berapa? Gaji memang lambat masuk bulan ni.",high,4
+"Saya tak sengaja terguna duit instalment untuk beli susu anak, boleh extend due date tak?",high,5
+"Hi support, boleh tak tukar tarikh bayaran ke bulan depan? Bulan ni memang zero balance dah.",high,5
+"Too many bills this month, klinik lagi, sekolah anak lagi, please allow me to pay next week.",high,4
+"Macam mana kalau saya tak dapat bayar tepat pada masanya? Akaun bank kena block ke nanti?",high,4
+"Tolong jangan call emergency contact saya, saya tengah usahakan duit untuk bayar tunggakan ni.",high,5
+"Can you reduce my monthly payment and extend the tenure? Memang tak larat nak bayar rate sekarang.",high,4
+"Gaji belum masuk lagi tapi esok dah due date, macam mana ni admin? Takut kena caj lewat.",high,4
+"Baru lepas kena scam duit simpanan, sekarang nak bayar BNPL pun tak ada baki dalam akaun.",high,5
+"Please give me 1 week grace period, tengah tunggu duit KWSP atau pinjaman kawan masuk.",high,5
+"Saya dah cuba bayar tapi kad decline, duit dalam bank tak cukup, boleh tangguh ke?",high,4
+"Hi, boleh tak waive denda lewat bayar? Saya baru keluar wad, tak sempat nak uruskan bayaran.",high,4
+"Komitmen hutang keliling pinggang bulan ni, boleh ke saya bayar minimum dulu?",high,5
+"My overtime got cut this month so gaji kurang banyak, can I delay this instalment?",high,4
+"Tolong bagi kelonggaran sikit bulan ni, bisnes kecil saya langsung tak ada sales minggu ni.",high,5
+"I am begging for an extension, kalau kena penalti lagi memang makin susah saya nak habis bayar.",high,5
+"Boleh tak gabungkan baki tertunggak ke bulan depan? Bulan ni memang kering kontang.",high,5
+"Sorry admin, terlepas bayar semalam sebab duit gaji sangkut, hari ni pun belum clear lagi.",high,4
+"Saya kena jaga mak sakit kat kampung, cuti tanpa gaji bulan ni, boleh tangguh bayaran?",high,5
+"Please help me stop the late charges, I will definitely pay once my commission comes in Friday.",high,4
+"Tak cukup duit nak bayar penuh, kalau saya bayar RM30 hari ni akaun masih kena block ke?",high,5
+"Hi, macam mana nak apply hardship assistance? Memang tak mampu nak bayar bulan ni.",high,5
+"Motor kena tarik semalam, sekarang nak pergi kerja pun susah, boleh delay payment tak?",high,5
+"Bil hospital tinggi sangat bulan ni, semua duit gaji habis kat situ, minta tangguh sekejap.",high,5
+"Can I reschedule my auto-debit date? Duit dalam akaun memang kosong sekarang ni.",high,4
+"Tolonglah jangan hantar surat tuntutan lagi, saya tengah jual barang nak cukupkan duit bayar.",high,5
+"Gaji part-time belum dapat lagi, boleh bagi masa sampai 5 haribulan depan tak?",high,4
+"I have 3 instalments due same week, memang tak terkejar nak bayar semua sekaligus.",high,4
+"Boleh ke bayar ansur-ansur sikit demi sedikit? Sekarang ni dalam tangan ada RM20 je.",high,5
+"Please understand my situation, kedai tempat kerja tutup sementara, gaji kena hold.",high,5
+"Saya takut kena blacklist CCRIS dan CTOS, boleh bagi pelan bayaran balik yang lebih rendah tak?",high,5
+"Baru lepas banjir kat rumah, banyak barang rosak kena ganti, tak sempat nak bayar BNPL bulan ni.",high,5
+"Admin, tolong hentikan caj lewat harian tu dulu, saya janji akan selesaikan hujung bulan.",high,5
+"Duit bantuan belum masuk lagi, boleh tak hold akaun saya daripada kena penalti minggu ni?",high,5
+"I am struggling to pay my rent and food right now, please allow a 2-week extension.",high,5
+"Kenapa auto-debit cuba tolak banyak kali? Memang tak ada baki dalam bank sekarang, maaf sangat.",high,4
+"Boleh tak saya minta diskaun untuk bayaran lewat ni? Saya betul-betul tengah kesempitan wang.",high,5
+"Hi, just checking kalau saya bayar lambat sehari dua, berapa ringgit late fee kena caj?",medium,3
+"Boleh tak tukar due date saya dari 25hb ke 1hb? Gaji saya masuk setiap hujung bulan.",medium,2
+"Hi admin, kalau saya bayar separuh hari ni dan separuh lagi lusa, dikira late payment ke?",medium,3
+"Slightly tight budget bulan ni, nak tanya ada grace period tak lepas tarikh due?",medium,3
+"Macam mana nak off auto-debit dulu? Saya nak bayar manual minggu ni lepas duit masuk.",medium,3
+"Hi, berapa lama masa diambil sebelum akaun kena freeze kalau terlepas tarikh bayaran?",medium,3
+"Boleh ke saya guna kad kredit untuk bayar instalment bulan ni sebab cash tengah kurang sikit?",medium,3
+"Just to confirm, due date saya esok pukul 11.59 malam ke? Takut terlepas waktu.",medium,2
+"Kalau saya bayar awal bulan depan untuk dua bulan terus, ada penalti tak?",medium,2
+"Hi, kenapa bil bulan ni nampak tinggi sikit daripada biasa? Ada caj tersembunyi ke?",medium,3
+"Saya nak tanya pasal late fee, dia kira per hari ke sekali caj je untuk satu bil?",medium,3
+"Boleh tak extend due date 2 hari je? Tunggu duit claim company masuk hari Jumaat ni.",medium,3
+"Takut terlupa bayar minggu ni, boleh tak set reminder kat WhatsApp saya?",medium,2
+"Hi, kalau baki dalam bank tak cukup masa auto-debit jalan, bank akan caj penalti ke?",medium,3
+"Saya rasa macam terlebih belanja bulan ni, boleh tak turunkan credit limit saya sementara?",medium,3
+"Nak tanya, kalau saya lambat bayar sekali ni, credit limit saya akan terus kena potong ke?",medium,3
+"Boleh tak bayar guna e-wallet? Duit dalam bank nak simpan untuk bayar bil rumah dulu.",medium,3
+"Hi support, tarikh gaji saya bertukar ke 7hb, macam mana nak adjust jadual bayaran?",medium,2
+"Just worried kalau payment saya tadi tak lepas sebab line internet slow, boleh check tak?",medium,2
+"Kalau saya settlekan satu order awal, baki order lain masih ikut tarikh asal ke?",medium,2
+"Boleh tak saya bayar lebih sikit bulan ni supaya bulan depan bayaran jadi ringan sikit?",medium,2
+"Hi, nak kepastian je, cuti umum ni kalau saya transfer duit, dia update terus ke?",medium,2
+"Bulan ni banyak kenduri kahwin, bajet lari sikit, ada caj tambahan tak kalau bayar lewat 24 jam?",medium,3
+"Saya perasan ada dua transaksi berbeza tarikh, boleh gabungkan jadi satu tarikh bayaran tak?",medium,2
+"Tolong checkkan berapa jumlah tepat saya kena bayar minggu ni, takut tersalah kira.",medium,2
+"Hi, kalau saya terlepas bayar satu instalment, order baru saya akan kena sekat terus ke?",medium,3
+"Boleh ke tukar cara bayaran dari auto-debit kepada manual FPX buat sementara waktu?",medium,2
+"Nak tanya, penalti lewat bayar tu tetap RM10 ke ikut peratus jumlah belian?",medium,3
+"Saya baru bayar guna DuitNow tapi status masih pending, nanti kena caj lewat tak?",medium,3
+"Hi admin, ada tak option untuk tukar pelan 3 bulan jadi 6 bulan bagi order yang sedang jalan?",medium,3
+"Bajet agak ketat minggu ni, nak pastikan je kalau bayar tepat pada tarikh due tak ada interest kan?",medium,3
+"Boleh tak saya guna voucher atau cashback untuk tolak jumlah ansuran bulan ni?",medium,2
+"Saya takut auto-debit tolak dua kali sebab semalam saya dah bayar manual, tolong semak.",medium,2
+"Hi, kalau akaun kena gantung sebab lambat bayar 3 hari, lepas bayar dia aktif balik terus ke?",medium,3
+"Nak tanya pasal yuran proses, kenapa bulan ni ada tambahan RM5 dalam penyata saya?",medium,2
+"Boleh tak saya bayar separuh guna baki e-wallet dan separuh lagi guna online banking?",medium,3
+"Minggu ni banyak komitmen sikit, nak tahu pukul berapa sistem auto-debit selalu potong duit?",medium,3
+"Hi, kalau saya batalkan satu barang dalam order, ansuran bulan depan akan berkurang terus ke?",medium,2
+"Saya risau terlepas tarikh bayar masa outstation nanti, boleh bayar seminggu awal tak?",medium,2
+"Macam mana nak elak kena caj lewat kalau tarikh due jatuh pada hari Ahad atau cuti umum?",medium,2
+"Hi support, boleh bagi pecahan jadual bayaran untuk semua order aktif saya sekarang?",medium,2
+"Agak pening nak pantau 4 pelan serentak, ada cara nak satukan semua bil jadi satu?",medium,3
+"Kalau saya bayar lambat 1 hari, rekod kredit saya akan terjejas ke?",medium,3
+"Boleh tak buang kad debit lama saya? Takut dia cuba caj kad yang dah tak ada baki tu.",medium,3
+"Hi, nak tanya kalau refund dari seller lambat masuk, saya tetap kena bayar ansuran bulan ni ke?",medium,3
+"Saya cuba bayar tadi tapi keluar error, harap tak kena caj lewat kalau sistem yang bermasalah.",medium,3
+"Boleh ke saya tangguh bayaran untuk satu order je sementara order lain saya bayar macam biasa?",medium,3
+"Nak tanya, ada had maksimum tak untuk penalti lewat bayar kalau terlambat seminggu?",medium,3
+"Hi, boleh tolong ingatkan saya berapa baki keseluruhan yang perlu saya habiskan bulan depan?",medium,2
+"Saya nak pastikan tak ada tunggakan tersembunyi sebelum gaji masuk minggu depan, boleh semak?",medium,2
+"Hi, saya nak tukar alamat penghantaran untuk order baru saya, baru pindah rumah minggu lepas.",low,1
+"Boleh check status refund saya dari Shopee? Seller dah approve semalam.",low,1
+"Hi admin, macam mana cara nak naikkan credit limit saya? Semua bil sebelum ni saya bayar awal.",low,1
+"Ada promo code atau cashback menarik tak untuk pengguna setia bulan ni?",low,1
+"Saya nak settlekan semua baki ansuran sekaligus hari ni, macam mana nak buat full settlement?",low,1
+"Hi, boleh tukar nombor telefon yang berdaftar dengan akaun ni tak? Saya baru tukar sim kad.",low,1
+"Nak tanya, kalau saya beli tiket flight guna BNPL ni, dapat sekali travel insurance ke?",low,1
+"Barang saya dah sampai semalam tapi status dalam app masih 'To Receive', boleh update tak?",low,1
+"Hi support, macam mana nak download resit rasmi untuk tuntutan cukai pendapatan (LHDN)?",low,1
+"Boleh tak saya link akaun bank baru saya untuk auto-debit yang lebih lancar?",low,1
+"Saya nak upgrade ke pelan 12 bulan untuk pembelian laptop baru ni, macam mana caranya?",low,1
+"Hi, kedai mana lagi yang terima pembayaran BNPL ni kat area Pavilion KL?",low,1
+"Terima kasih atas servis pantas, just nak confirm bayaran penuh saya tadi dah diterima ke?",low,1
+"Macam mana nak tebus loyalty points yang saya kumpul dari transaksi bulan lepas?",low,1
+"Hi, saya nak tukar alamat emel untuk terima penyata bulanan saya, kat mana setting dia?",low,1
+"Boleh ke saya guna BNPL ni untuk bayar bil utiliti dan topup prepaid sekali?",low,1
+"Saya cadang nak beli iPhone baru minggu depan, limit semasa saya cukup tak untuk transaksi tu?",low,1
+"Hi admin, kenapa voucher diskaun RM20 saya tak boleh guna masa checkout tadi?",low,1
+"Nak tanya, kalau saya refer kawan guna app ni, dua-dua dapat ganjaran kredit ke?",low,1
+"Boleh tolong batalkan order nombor #88412? Saya tersalah pilih warna masa checkout tadi.",low,1
+"Hi, berapa lama tempoh proses untuk naikkan had kredit lepas upload slip gaji terkini?",low,1
+"Saya nak semak sejarah transaksi tahun lepas untuk rekod perbelanjaan peribadi saya.",low,1
+"Ada kempen 0% faedah untuk pelan 6 bulan hujung minggu ni ke?",low,1
+"Hi support, macam mana nak aktifkan pengesahan cap jari (biometric) untuk log masuk app?",low,1
+"Saya dah buat bayaran awal untuk bulan depan, boleh semak jadual baru saya?",low,1
+"Boleh tak guna BNPL ni untuk pembelian di laman web luar negara yang guna mata wang USD?",low,1
+"Hi, seller baru je hantar barang gantian, macam mana nak tutup kes dispute saya hari tu?",low,1
+"Nak tanya, had maksimum untuk satu transaksi tunggal memang RM5,000 ke?",low,1
+"Saya sangat puas hati dengan app ni, cuma nak tanya bila feature dark mode akan keluar?",low,1
+"Hi admin, boleh hantar salinan penyata tahunan ke emel berdaftar saya?",low,1
+"Macam mana nak padam maklumat kad lama yang dah tamat tempoh dalam tetapan bayaran?",low,1
+"Saya baru je habis bayar semua ansuran, bila limit saya akan dikemas kini semula?",low,1
+"Hi, ada kerjasama dengan mana-mana klinik pergigian atau pusat kecantikan tak sekarang?",low,1
+"Boleh ke saya buat dua pembelian berasingan pada hari yang sama asalkan cukup limit?",low,1
+"Nak tanya pasal perlindungan insurans pembelian, macam mana nak tuntut kalau barang rosak masa pos?",low,1
+"Hi support, app saya asyik log keluar sendiri lepas update semalam, ada isu teknikal ke?",low,1
+"Saya nak tukar nama paparan pada profil akaun saya supaya selari dengan kad pengenalan.",low,1
+"Ada diskaun khas tak untuk pengguna yang selalu bayar ansuran lebih awal dari tarikh due?",low,1
+"Hi, boleh tunjukkan cara nak guna kod QR BNPL ni kat kaunter pembayaran kedai fizikal?",low,1
+"Saya dah terima barang dalam keadaan baik, terima kasih sebab mudahkan urusan pembelian!",low,1
+"Macam mana nak matikan notifikasi promosi tapi kekalkan peringatan tarikh bayaran sahaja?",low,1
+"Hi admin, boleh ke saya sambungkan akaun ni dengan e-wallet utama saya untuk bayaran pantas?",low,1
+"Saya berminat nak daftar kedai online saya sebagai merchant BNPL, kat mana boleh mohon?",low,1
+"Nak tanya, kalau saya beli barang masa jualan 11.11 nanti, ada had transaksi harian ke?",low,1
+"Hi, penyata bulan ni nampak sangat jelas, cuma nak tanya maksud simbol bintang kat transaksi ni.",low,1
+"Boleh tak saya tukar bahasa dalam aplikasi ni daripada Bahasa Inggeris kepada Bahasa Melayu?",low,1
+"Saya baru je cadangkan app ni kat adik saya, berapa lama masa untuk akaun baru dia diluluskan?",low,1
+"Hi support, macam mana nak semak senarai penuh kedai elektronik yang terima pelan 0% ni?",low,1
+"Semua bayaran bulan ni dah selesai awal, saja nak ucap terima kasih kat team support!",low,1
+"Boleh ke saya tetapkan had perbelanjaan bulanan sendiri supaya lebih mudah kawal bajet shopping?",low,1
